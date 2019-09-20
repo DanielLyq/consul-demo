@@ -7,7 +7,6 @@ import org.springframework.scheduling.annotation.EnableScheduling;
 
 @EnableScheduling
 @SpringBootApplication
-@EnableDiscoveryClient
 public class ConsulDemoApplication {
 
     public static void main(String[] args) {
